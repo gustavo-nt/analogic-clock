@@ -37,7 +37,7 @@
 A aplicação consiste em um relógio analógico que fornece as horas locais, conforme o horário local, conforme o Sistema Operacional(SO), por exemplo.
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/carved-creations/blob/master/imagens/carved-creations.PNG"/>
+<img src="https://github.com/gustavo-nt/analogic-clock/blob/master/public/assets/clock-github.png"/>
 
 ### ⚙ Pré-requisitos
 
