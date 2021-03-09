@@ -1,0 +1,79 @@
+:root {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.analogic-clock {
+    display: flex;
+    height: 76vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.base-clock, 
+#box-clock {
+    height: 100%;
+}
+
+.circle-background {
+    fill: #082947;
+}
+
+#hour,
+#minute,
+#second {
+    transform-origin: 300px 300px;
+}
+
+.circle,
+.style-background,
+.hours, 
+.minutes,
+.seconds,
+.dimension {
+    fill: none;
+}
+
+.circle,
+.style-background,
+.hours, 
+.minutes,
+.seconds {
+    stroke-miterlimit: 10;
+    stroke-width: 9;
+}
+
+.circle,
+.style-background,
+.hours, 
+.minutes {
+    stroke: #FFF;
+}
+
+.inner-circle {
+    fill: #FFF;
+}
+
+.seconds {
+    stroke: #F00;
+}
+
+.time {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 8em;
+    text-align: center;
+    margin: 0;
+}
+
+.date {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1em;
+    text-align: center;
+    margin: 0;
+}
+
