@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    🚀 Aplicação Básica
+   ⏰ Aplicação Básica
 </h1>
 
 <p align="center">Aplicação Básica visando aprimorar os conhecimentos em HTML e CSS</p>
