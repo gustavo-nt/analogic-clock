@@ -33,6 +33,8 @@
 - [x] Relógio Digital
 - [x] Data do dia atual
 
+<h6>** Aplicação apenas Web</h6>
+
 ### 💻 Projeto
 
 A aplicação consiste em um relógio analógico que fornece as horas locais, conforme o horário local, conforme o Sistema Operacional(SO), por exemplo.
