@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/analogic-clock/blob/master/public/assets/soft-skills.jpeg" alt="logo" height="130"/>
+  <img src="https://github.com/gustavo-nt/analogic-clock/blob/master/public/assets/soft-skills.png" alt="logo" height="130"/>
 </p>
 
 <h1 align="center">
