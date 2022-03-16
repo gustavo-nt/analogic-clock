@@ -26,7 +26,7 @@ function clock() {
     min = date.getMinutes().toString().length < 2 ? "0" + date.getMinutes() : date.getMinutes();
     sec = date.getSeconds().toString().length < 2 ? "0" + date.getSeconds() : date.getSeconds();
 
-    var dayMonth = date.getDay().toString().length < 2 ? "0" + date.getDay() : date.getDay();
+    var dayMonth = date.getDate().toString().length < 2 ? "0" + date.getDate() : date.getDate();
 
     var time = `${hours}:${min}:${sec}`;
     var fullDate = `${day[date.getDay()]} , ${dayMonth} de ${month[date.getMonth()]} de ${date.getFullYear()}`
